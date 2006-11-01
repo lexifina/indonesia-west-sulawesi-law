@@ -1,0 +1,7 @@
+# Pasal 21
+(1) Wajib Retribusi dapat mengajukan permohonan pembetulan SKRD dan STRD yang dalam penerbitannya terdapat kesalahan tulis, kesalahan hitung dan atau kekeliruan dalam penerapan Peraturan Perundang-undangan Retribusi Daerah;
+(2) Wajib Retribusi dapat mengajukan permohonan pengurangan atau penghapusan sanksi administrasi berupa bunga dan kenaikan retribusi yang terutang dalam hal sanksi tersebut dikenakan karena kekhilafan wajib retribusi atau bukan karena kesalahannya;
+(3) Wajib Retribusi dapat mengajukan permohonan pengurangan atau pembatalan ketetapan retribusi yang tidak benar;
+(4) Permohonan pembetulan sebagaimana dimaksud ayat (1), Pengurangan Ketetapan, penghapusan sebagaimana dimaksud ayat (2) dan pembatalan sebagaimana dimaksud pada ayat (3) harus disampaikan secara tertulis oleh Wajib Retribusi kepada Bupati atau pejabat yang ditunjuk paling lama 30 (tiga puluh) hari sejak tanggal diterima SKRD dan STRD dengan memberikan alasan yang jelas dan meyakinkan untuk mendukung permohonannya;
+(5) Keputusan atas permohonan sebagaimana dimaksud ayat (1), ayat (2) dan ayat (3) pasal ini dikeluarkan oleh Bupati atau pejabat yang ditunjuk paling lama 3 (tiga) bulan sejak permohonan diterima;
+(6) Apabila setelah lewat 3 (tiga) bulan yang dimaksud ayat (5), Bupati atau Pejabat yang ditunjuk tidak memberikan Keputusan, maka permohonan pembetulan, pengurangan ketetapan, penghapusan atau pengurangan sanksi administrasi pembatalan ketetapan dianggap dikabulkan.
