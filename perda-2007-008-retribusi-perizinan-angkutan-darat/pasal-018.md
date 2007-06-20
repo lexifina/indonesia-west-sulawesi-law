@@ -1,0 +1,7 @@
+# Pasal 18
+(1) Wajib Retribusi dapat mengajukan permohonan pembetulan SKRD yang dalam penerbitannya terdapat kesalahan tulis, kesalahan hitung dan atau kekeliruan dalam penerapan Peraturan Perundang-undangan Retribusi Daerah;
+(2) Wajib Retribusi dapat emngajukan permohonan, pengurangan atau penghapusan sanksi administrasi berupa bunga dan kenaikan retribusi yang terutang dalam hal sanksi tersebut dikenakan karena kekhilafan wajib retribusi atau bukan karena kesalahannya;
+(3) Wajib retribusi dapat mengajukan permohonan pengurangan atau ketetapan pembatalan retribusi yang tidak benar;
+(4) Permohonan pembetulan sebagaimana dimaksud ayat (1), pengurangan ketetapan, penghapusan atau pengurangan sanksi administrasi sebagimana dimaksud ayat (2) dan pembatalan sebagaimana dimaksud ayat (3) harus disampaikan secara tertulis oleh wajib retribusi kepada Gubernur atau pejabat yang ditunjuk paling lama 30 (tiga puluh) hari sejak tanggal diterima SKRD dan STRD, dengan memberikan alasan yang tepat dan meyakinkan untuk mendukung permohonan;
+(5) Keputusan dan permohonan sebagimana dimaksud ayat (2) dikeluarkan oleh Gubernur atau pejabat yang ditunjuk paling lama 3 (tiga) bulan sejak surat permohonan diterima;
+(6) Apabila setelah lewat 3 (tiga) bulan sebagaimana dimaksud pada ayat (5) Gubernur atau pejabat yang ditunjuk tidak memberikan keputusan, maka permohonan pembetulan, pengurangan ketetapan, penghapusan atau pengurangan sanksi administrasi dan pembatalan dianggap dikabulkan.
