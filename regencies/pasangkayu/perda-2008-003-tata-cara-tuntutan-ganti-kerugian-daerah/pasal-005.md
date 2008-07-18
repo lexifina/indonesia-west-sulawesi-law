@@ -1,0 +1,4 @@
+# Pasal 5
+(1) Setiap kerugian Daerah wajib dilaporkan oleh atasan langsung atau kepala SKPD kepada Bupati dan diberitahukan kepada Badan Pemeriksa Keuangan paling lama 7 (tujuh) hari kerja setelah kerugian Daerah itu diketahui.
+(2) Setiap kepala SKPD dapat segera melakukan tuntutan ganti kerugian setelah mengetahui atau menerima informasi bahwa dalam SKPD yang bersangkutan terjadi kerugian Daerah dari pihak manapun termasuk sebagaimana dimaksud dalam Pasal 3.
+(3) Setiap atasan langsung/kepala SKPD yang mengetahui bahwa Daerah dirugikan karena suatu perbuatan melanggar hukum atau kelalaian sehingga mengakibatkan kerugian Daerah namun tidak melaporkan kepada Bupati dalam jangka waktu sebagaimana dimaksud pada ayat (1), dianggap telah lalai melaksanakan tugas dan kewajibannya sehingga terhadapnya dapat dikenakan tindakan hukuman disiplin atau sanksi administrasi sesuai dengan ketentuan peraturan perundang-undangan di bidang kepegawaian.

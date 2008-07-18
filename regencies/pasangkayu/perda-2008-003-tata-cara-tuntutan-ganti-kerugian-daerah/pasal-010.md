@@ -1,0 +1,5 @@
+# Pasal 10
+(1) Setelah kerugian Daerah diketahui, kepada pegawai negeri bukan bendahara atau pejabat lain sebagaimana dimaksud dalam Pasal 9 dapat segera dimintakan pernyataan kesanggupan dan/atau pengakuan berupa SKTM bahwa kerugian Daerah tersebut menjadi tanggungjawabnya dan bersedia menanggung kerugian dimaksud.
+(2) Jika Surat Keterangan Tanggung Jawab Mutlak tersebut tidak mungkin diperoleh atau tidak dapat menjamin pengembalian kerugian Daerah, Bupati dapat segera mengeluarkan Keputusan Pembebanan Penggantian Kerugian Daerah Sementara kepada yang bersangkutan.
+(3) Pegawai negeri bukan bendahara atau pejabat lain dapat mengajukan keberatan atau pembelaan diri kepada Bupati dalam waktu 14 (empat belas) hari kerja setelah menerima Keputusan Pembebanan Penggantian Kerugian Daerah Sementara sebagaimana dimaksud pada ayat (2).
+(4) Apabila pegawai negeri bukan bendahara atau pejabat lain sebagaimana dimaksud pada ayat (3) tidak mengajukan keberatan atau pembelaan dirinya ditolak, Bupati menerbitkan Keputusan Pembebanan Penggantian Kerugian Daerah kepada pegawai negeri bukan bendahara atau pejabat lain bersangkutan.

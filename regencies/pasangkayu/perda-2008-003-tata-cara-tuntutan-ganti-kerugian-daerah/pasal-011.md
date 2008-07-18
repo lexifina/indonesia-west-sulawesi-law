@@ -1,0 +1,2 @@
+# Pasal 11
+Dalam hal pegawai negeri bukan bendahara atau pejabat lain yang dikenai tuntutan kerugian Daerah berada dalam pengampuan, melarikan diri, atau meninggal dunia, penuntutan dan penagihan terhadapnya beralih kepada pengampu/yang memperoleh hak/ahli waris, terbatas pada kekayaan yang dikelola atau diperolehnya, yang berasal dari pegawai negeri bukan bendahara atau pejabat lain yang bersangkutan.
