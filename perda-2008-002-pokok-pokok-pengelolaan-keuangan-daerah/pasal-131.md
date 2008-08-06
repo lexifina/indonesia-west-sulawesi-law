@@ -1,0 +1,2 @@
+# Pasal 131
+Selama belum dibentuk lembaga yang melaksanakan fungsi SKPKD, maka fungsi pengelolaan pendapatan daerah dilaksanakan oleh Dinas Pendapatan Daerah, fungsi pengelolaan belanja dan penerimaan pembiayaan daerah serta pengeluaran pembiayaan daerah dilaksanakan oleh Biro Keuangan pada Sekretariat Daerah, dan fungsi pengelolaan aset daerah dilaksanakan oleh Biro Umum pada Sekretariat Daerah, fungsi pengelolaan investasi daerah dilaksanakan oleh Biro Ekonomi dan Pembangunan pada Sekretariat Daerah.

@@ -1,0 +1,4 @@
+# Pasal 120
+(1) Kerugian daerah wajib dilaporkan oleh atasan langsung atau kepala SKPD kepada Gubernur dan diberitahukan kepada BPK paling lama 7 (tujuh) hari kerja setelah kerugian daerah itu diketahui.
+(2) Segera setelah kerugian daerah tersebut diketahui, kepada bendahara, pegawai negeri sipil bukan bendahara, atau pejabat lain yang nyata-nyata melanggar hukum atau melalaikan kewajibannya sebagaimana dimaksud dalam Pasal 113 segera dimintakan surat pernyataan kesanggupan dan/atau pengakuan bahwa kerugian tersebut menjadi tanggung jawabnya dan bersedia mengganti kerugian daerah dimaksud.
+(3) Jika surat keterangan tanggung jawab mutlak tidak mungkin diperoleh atau tidak dapat menjamin pengembalian kerugian daerah, Gubernur segera mengeluarkan surat keputusan pembebanan penggantian kerugian sementara kepada yang bersangkutan.

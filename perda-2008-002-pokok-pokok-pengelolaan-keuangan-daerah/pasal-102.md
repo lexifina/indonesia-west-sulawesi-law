@@ -1,0 +1,4 @@
+# Pasal 102
+(1) Kepala SKPD menyusun laporan realisasi semester pertama anggaran pendapatan dan belanja SKPD sebagai hasil pelaksanaan anggaran yang menjadi tanggung jawabnya disertai dengan prognosis untuk 6 (enam) bulan berikutnya.
+(2) Pejabat pengguna anggaran menyampaikan laporan realisasi semester pertama anggaran pendapatan dan belanja SKPD serta prognosis untuk 6 (enam) bulan berikutnya kepada PPKD sebagai dasar penyusunan laporan realisasi semester pertama APBD.
+(3) PPKD menyusun laporan realisasi semester pertama APBD dengan cara menggabungkan seluruh laporan realisasi semester pertama anggaran pendapatan dan belanja SKPD sebagaimana dimaksud pada ayat (2) paling lambat minggu kedua bulan Juli tahun anggaran berkenaan dan disampaikan kepada Sekretaris Daerah selaku koordinator pengelolaan keuangan daerah.
