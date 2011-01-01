@@ -1,0 +1,3 @@
+# Pasal 35
+(1) Wajib pajak yang karena kealpaannya tidak menyampaikan SSPD atau mengisi dengan tidak benar atau tidak lengkap atau melampirkan keterangan yang tidak benar sehingga merugikan keuangan daerah dapat dipidana kurungan paling lama 3 (tiga) bulan atau denda paling banyak 2 (dua) kali jumlah pajak terutang yang tidak atau kurang bayar.
+(2) Wajib pajak yang dengan sengaja tidak menyampaikan SSPD atau mengisi dengan tidak benar atau tidak lengkap atau melampirkan keterangan yang tidak benar sehingga merugikan keuangan daerah dapat dipidana dengan pidana kurungan paling lama 3 (tiga) bulan atau denda paling banyak 4 (empat) kali jumlah pajak terutang yang tidak atau kurang bayar.
