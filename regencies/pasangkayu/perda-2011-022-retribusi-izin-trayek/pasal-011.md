@@ -1,0 +1,5 @@
+# Pasal 11
+(1) Hak untuk melakukan penagihan retribusi menjadi kedaluwarsa setelah melampaui waktu 3 (tiga) tahun terhitung sejak saat terutangnya retribusi, kecuali jika wajib retribusi melakukan tindak .
+pidana dibidang retribusi (2) Kedaluwarsa penagihan retribusi sebagaimana dimaksud ayat (1), tertangguh jika :
+a. Diterbitkan surat teguran, atau b. Ada pengakua hutang retribusi dari wajib retribusi, baik langsung maupun tidak langsung.
+(3) Dalam hal diterbitkan surat teguran sebagaimana dimaksud pada ayat (2), huruf a, kedaluwarsa penagihan dihitung sejak tanggal diterimanya surat teguran tersebut (4) Pengakuan hutang retribusi secara langsung sebagaimana dimaksud pada ayat (2) huruf b adalah wajib retribusi dengan kesadarannya menyatakan masih m empunyai hutang retribusi dan belum melunasinya kepada Pemerintah Daerah (5) Pengakuan hutang retribusi secara langsung sebagaimana dimaksud pada ayat (2) huruf b dapat diketahui dari pengajuan permohonan angsuran atau penundann pembayaran dan permohonan keberatan oleh wajib retribusi
