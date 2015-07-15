@@ -1,0 +1,2 @@
+# Pasal 47
+Setiap penyusunan RAB dan atau HPS pekerjaan proyek konstruksi bangunan yang menggunakan bahan bangunan harus memasukkan dan mengalokasikan biaya untuk pengujian bahan bangunan dan biaya Uji Mutu bahan bangunan dan konstruksi bangunan, serta biaya standardisasi konstruksi dan pengendalian teknis tata bangunan/lingkungan sebagaimana kelaikan Standardisasi HSBBL-UK-JK/L terbarukan tahun berjalan.

@@ -1,0 +1,3 @@
+# Pasal 16
+(1) Terhadap Layanan pekerjaan Uji Mutu Bidang Sumber Daya Air, Bidang Bina Marga, Bidang Cipta Karya yang dilaksanakan di luar laboratorium UPTD PSDAL dan PM sebagaimana dimaksud dalam Pasal 15 yang menimbulkan biaya operasional seperti tranportasi, akomodasi, mobilitas peralatan, dan asuransi, dibebankan kepada pemohon Uji Mutu dan Standardisasi dan atau include dalam Rencana Mutu Kontrak (RMK)/dokumen kontrak mutu pekerjaan (RMP).
+(2) Biaya Uji Mutu dan Standardisasi dibebankan kepada pemohon sebagaimana dimaksud pada ayat (1), dilaksanakan sesuai dengan standar Analisa Harga Satuan Pekerjaan (AHSP) uji mutu dan Standaridasi HSBBL-UK-JK/L, dan ditetapkan gubernur setiap tahun.

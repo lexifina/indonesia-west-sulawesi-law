@@ -1,0 +1,2 @@
+# Pasal 58
+Pelaksanaan pembinaan bagi Pengguna Jasa Konstruksi dan/atau Penyedia Jasa Konstruksi diberikan dalam bentuk publikasi dan dokumentasi media lokal atau daerah, regional dan nasional yang berisi mengenai kegiatan pengujian Bahan Bangunan, Pengendalian Uji Mutu Konstruksi dan Standardisasi Tata Bangunan/Lingkungan melalui penerbitan Media Informasi, Komunikasi dan Konsultansi Usaha Jasa Konstruksi Sulawesi Barat setiap bulan, triwulan, dan tribulan bulan sekali.

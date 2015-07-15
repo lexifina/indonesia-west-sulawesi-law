@@ -1,0 +1,8 @@
+# Pasal 54
+Program dan kegiatan sebagaimana dimaksud dalam Pasal 53 dimasukkan dalam rencana kegiatan anggaran pelaksanan uji mutu dan Standardisasi konstruksi bangunan/lingkungan di setiap bidang tugas dan/atau UPTD melalui:
+a. rapat rutin pengendalian standardisasi uji mutu bulanan pada setiap akhir bulan, internal Tenaga Teknik, Manajer Teknik (Kepala Seksi Pengujian), dan Manajer Uji Mutu (Kepala Seksi Standardisasi dan Penyuluhan) serta Manajer Umum (kepala UPTD PSDAL PM) dan laporan uji mutu dan standardisasi setiap awal bulan berjalan pada lingkup UPTD PSDAL dan PM.
+b. rapat teknis pengendalian uji mutu dan standardisasi triwulanan dilaksanakan setiap 3 (tiga) bulan secara internal yang terdiri atas evaluasi kegiatan para:
+kepala Bidang, Satuan kerja dan PPTK/PK dalam lingkup Dinas PUPR Provinsi Sulawesi Barat.
+c. rapat sosialisasi atau diseminasi pengendalian uji mutu dan standardisasi setiap semester/6 (enam) bulanan secara internal yang terdiri atas: evaluasi kegiatan para: Pimpinan SKPD, instansi vertikal, lembaga penyedia jasa konstruksi, perguruan tinggi dan Pemerintah Kabupaten/Kota se-Sulawesi Barat.
+d. rapat koordinasi terpadu pengendalian uji mutu dan standardisasi kegiatan akhir tahun oleh para: Pimpinan SKPD Provinsi dan Kabupaten/Kota, Instansi
+JDIH Provinsi Sulawesi Barat Vertikal, Lembaga/Assosiasi Penyedia/ Pengguna Jasa Konstruksi, Perguruan Tinggi dan Pemerintah Kabupaten/ Kota se-Provinsi Sulawesi Barat selaku Tim Kerja Swakelola Penyelenggera Pengendali Uji Mutu dan Standardisasi Jasa Kontruksi Sulawesi Barat e. tim Kerja Swakelola sebagaimana dimaksud pada huruf d dibentuk oleh Gubernur.
