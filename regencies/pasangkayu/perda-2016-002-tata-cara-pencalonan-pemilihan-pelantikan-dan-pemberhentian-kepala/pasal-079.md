@@ -1,0 +1,3 @@
+# Pasal 79
+1. Kepala desa yang diberhentikan sementara sebagaimana dimaksud dalam Pasal 75 dan Pasal 76 setelah melalui proses peradilan ternyata terbukti tidak bersalah berdasarkan putusan pengadilan yang telah mempunyai kekuatan hukum tetap, paling lama 30 (tiga puluh) hari sejak penetapan putusan pengadilan diterima oleh kepala desa, Bupati merehabilitasi dan mengaktifkan kembali kepala desa yang bersangkutan sebagai kepala desa sampai dengan akhir masa jabatannya.
+2. Apabila kepala desa yang diberhentikan sementara sebagaimana dimaksud pada ayat (1) telah berakhir masa jabatannya, Bupati harus merehabilitasi nama baik kepala desa yang bersangkutan.
