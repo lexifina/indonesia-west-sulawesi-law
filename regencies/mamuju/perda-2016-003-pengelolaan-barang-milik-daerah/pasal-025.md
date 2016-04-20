@@ -1,0 +1,8 @@
+# Pasal 25
+(1) Barang milik daerah dapat ditetapkan status penggunaannya untuk penyelenggaraan tugas dan fungsi satuan kerja perangkat daerah, guna dioperasikan oleh Pihak lain dalam rangka menjalankan pelayanan umum sesuai tugas dan fungsi satuan kerja perangkat daerah yang bersangkutan.
+(2) Barang milik daerah yang telah ditetapkan status penggunaannya pada Pengguna Barang dapat digunakan sementara oleh Pengguna Barang lainnya dalam jangka waktu tertentu tanpa harus mengubah status penggunaan barang milik daerah tersebut setelah terlebih dahulu mendapatkan persetujuan Bupati.
+(3) Barang milik daerah dapat dialihkan status penggunaannya dari Pengguna Barang kepada Pengguna Barang lainnya untuk penyelenggaraan tugas dan fungsi berdasarkan persetujuan Bupati.
+(4) Pengalihan status penggunaan barang milik daerah sebagaimana dimaksud pada ayat (3) dapat pula dilakukan berdasarkan inisiatif dari Bupati, dengan terlebih dahulu memberitahukan maksudnya tersebut kepada Pengguna Barang.
+(5) Penetapan status penggunaan barang milik daerah berupa tanah dan/atau bangunan dilakukan dengan ketentuan bahwa tanah dan/atau bangunan tersebut diperlukan untuk kepentingan penyelenggaraan tugas dan fungsi Pengguna Barang dan/atau Kuasa Pengguna Barang yang bersangkutan.
+(6) Pengguna Barang wajib menyerahkan barang milik daerah berupa tanah dan/atau bangunan yang tidak digunakan dalam penyelenggaraan tugas dan fungsi Pengguna Barang kepada Bupati.
+(7) Dikecualikan dariketentuan sebagaimana dimaksud pada ayat (6), apabila tanah dan/atau bangunan tersebut telah direncanakan untuk digunakan atau dimanfaatkan dalam jangka waktu tertentu yang ditetapkan oleh Bupati.

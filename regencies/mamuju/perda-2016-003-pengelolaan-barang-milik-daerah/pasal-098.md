@@ -1,0 +1,5 @@
+# Pasal 98
+(1) Penyertaan modal pemerintah daerah atas Barang Milik Daerah dilakukan dalam rangka pendirian, pengembangan, dan peningkatan kinerja badan usaha milik daerah atau badan hukum lainnya yang dimiliki daerah;
+(2) Penyertaan modal pemerintah daerah sebagaimana dimaksud pada ayat (1) dilakukan dengan pertimbangan sebagai berikut a. Barang Milik Daerah yang dari awal pengadaaannya sesuai dokumen penganggaran diperuntukkan bagi badan usaha milik daerah atau badan hukum lainnya yang dimiliki daerah dalam rangka penugasan pemerintah; atau b. Barang Milik Daerah lebih optimal apabila dikelola oleh badan usaha milik daerah atau badan hukum lainnya yang dimiliki daerah baik yang sudah ada maupun yang akan dibentuk.
+(3) Penyertaan modal pemerintah daerah ditetapkan dengan Peraturan Daerah.
+(4) Barang milik daerah sebagaimana dimaksud pada ayat (2) yang telah disertakan dalam penyertaan modal pemerintah daerah kepada Badan Usaha Milik Daerah atau badan hukum lainnya yang dimiliki Daerah menjadi kekayaan yang dipisahkan mengikuti ketentuan peraturan perundang-undangan.
