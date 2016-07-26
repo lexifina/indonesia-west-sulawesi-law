@@ -1,0 +1,2 @@
+# Pasal 57
+Setiap orang yangsengeja merusak dan/atau menghilangkanstiker, tanda atau simbol-simbol yang berisi pesan “ Kawasan Tanpa Rokok”, “Kawasan Bebas Rokok” , dan lain-lain stiker yang berisi pesan atau himbauan untuk tidak merokok yang dipasang atau tertempel pada tempat-tempat KTR dan/atau pada tempat-tempat lain yang berada dalam ruang publik sebagaimana dimaksud dalam Pasal 32, dikenakan sanksi pidana berupa kurungan penjara paling lama 6 (enam) bulan atau denda paling banyak Rp.5.000.000,- (lima juta).
