@@ -1,0 +1,5 @@
+# Pasal 139
+(1) Pada saat Peraturan Daerah ini berlaku, maka pemanfaatan barang milik daerah yang telah terjadi dan belum mendapat persetujuan dari pejabat yang berwenang, Gubernur dapat menerbitkan persetujuan terhadap kelanjutan pemanfaatan barang milik daerah dengan ketentuan pengelola barang menyampaikan permohonan persetujuan untuk sisa waktu pemanfaatan sesuai dengan perjanjian kepada Gubernur, dengan melampirkan:
+a. pengelola barang memastikan nilai barang pengganti sekurang-kurangnya sama dengan nilai barang milik daerah yang dipertukarkan: dan b. pengelola barang membuat pernyataan bertanggung jawab penuh atas pelaksanaan tukar menukar tersebut.
+(2) Gubernur dapat menerbitkan persetujuan penghapusan atas barang milik daerah yang telah diserahterimakan sebagaimana dimaksud pada ayat (1) huruf b, berdasarkan permohonan dari pengelola barang.
+(3) Segala akibat hukum yang menyertai pelaksanaan, pemanfataan, sebelum diberikannya persetujuan sebagaimana dimaksud pada ayat (1) huruf a, serta pelaksanaan tukar menukar sebagaimana yang dimaksud pada ayat (1) huruf b, sepenuhnya menjadi tanggung jawab para pihak dalam pemanfaatan atau tukar menukar tersebut.
