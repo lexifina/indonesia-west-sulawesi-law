@@ -1,0 +1,6 @@
+# Pasal 23
+(1) Strategi peningkatan dan pengembangan kemudahan akses dan pergerakan wisatawan menuju destinasi dan pergerakan wisatawan didalam DPP sebagaimana dimaksud dalam Pasal 22 huruf a, meliputi kegiatan:
+a. meningkatkan ketersediaan moda transportasi sebagai sarana pergerakan wisatawan menuju destinasi dan pergerakan wisatawan didalam DPP sesuai kebutuhan dan perkembangan pasar;
+b. meningkatkan kecukupan kapasitas angkut moda transportasi menuju destinasi dan pergerakan wisatawan didalam DPP sesuai kebutuhan dan perkembangan pasar; dan c. mengembangkan keragaman atau diversifikasi jenis moda transportasi menuju destinasi dan pergerakan wisatawan didalam DPP sesuai kebutuhan dan perkembangan pasar.
+(2) Strategi peningkatan dan pengembangan kenyamanan dan keamanan pergerakan wisatawan menuju destinasi dan pergerakan wisatawan didalam DPP sebagaimana dimaksud dalam Pasal 22 huruf b, meliputi pengembangan dan peningkatan kualitas:
+a. kenyamanan moda transportasi menuju destinasi dan pergerakan wisatawan didalam DPP sesuai kebutuhan dan perkembangan pasar; dan b. keamanan moda transportasi untuk menjamin keselamatan perjalanan wisatawan menuju destinasi dan pergerakan wisatawan didalam DPP.
