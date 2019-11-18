@@ -1,0 +1,8 @@
+# Pasal 43
+(1) Persyaratan analisis risiko bencana sebagaimana dimaksud dalam Pasal 36 ayat (1) huruf f, ditujukan
+JDIH KABUPATEN PASANGKAYU
+untuk mengetahui dan menilai tingkat risiko dari suatu kondisi atau kegiatan yang dapat menimbulkan bencana yang digunakan sebagai dasar dalam penyusunan analisis mengenai dampak lingkungan, penataan ruang serta pengambilan tindakan pencegahan dan mitigasi bencana.
+(2) Analisis risiko bencana sebagaimana dimaksud pada ayat (1) disusun oleh BPBD secara terkoordinasi dengan instansi terkait atas dasar :
+a. profil kebencanaan;
+b. kerentanan wilayah; dan c. kapasitas untuk mengatasi ancaman dan kerentanan.
+(3) Ketentuan persyaratan analisis risiko bencana sebagaimana dimaksud pada ayat (1) sesuai dengan ketentuan Peraturan Perundang-undangan.
