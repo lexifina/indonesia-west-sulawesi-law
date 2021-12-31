@@ -1,0 +1,3 @@
+# Pasal 77
+Dalam hal pekerja/buruh yang melakukan mogok kerja secara sah dalam melakukan tuntutan hak normatif yang sungguh-sungguh dilanggar oleh pengusaha, maka pengusaha tetap wajib membayar upah pekerja/buruh.
+Pasal 78…
