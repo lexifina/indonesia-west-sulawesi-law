@@ -1,0 +1,3 @@
+# Pasal 3
+Tujuan Penyelenggaraan Pelatihan dan Pengembangan Kompetensi Sumber Daya Manusia ini adalah terwujudnya Pegawai ASN yang profesional dan memiliki kemampuan serta keterampilan dalam melaksanakan tugas sesuai jabatan yang diembannya, sehingga mampu melaksanakan tugas pelayanan publik, tugas pemerintahan dan tugas pembangunan dalam penyelenggaraan pemerintahan daerah.
+Pasal 4...
