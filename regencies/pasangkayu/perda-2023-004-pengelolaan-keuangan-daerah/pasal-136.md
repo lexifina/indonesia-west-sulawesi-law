@@ -1,0 +1,3 @@
+# Pasal 136
+(1) Dalam hal Bupati dan Wakil Bupati berhalangan tetap atau sementara, pejabat yang ditunjuk dan ditetapkan oleh pejabat yang berwenang selaku pejabat/pejabat sementara/pelaksana tugas Bupati menyampaikan rancangan peraturan daerah tentang APBD kepada DPRD.
+(2) Dalam hal Bupati dan Wakil Bupati berhalangan tetap atau sementara sebagaimana dimaksud pada ayat (1) penandatanganan persetujuan bersama terhadap rancangan peraturan daerah tentang APBD dilakukan oleh pejabat yang ditunjuk dan ditetapkan oleh pejabat yang berwenang, selaku pelaksana tugas/ penjabat/penjabat sementara Bupati.

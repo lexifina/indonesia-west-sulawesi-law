@@ -1,0 +1,2 @@
+# Pasal 62
+Hibah sebagaimana dimaksud dalam Pasal 61 huruf a merupakan bantuan berupa uang, barang, dan/atau jasa yang berasal dari Pemerintah Pusat, Pemerintah Daerah lain, masyarakat, dan badan usaha dalam negeri atau luar negeri yang tidak mengikat untuk menunjang peningkatan penyelenggaraan Urusan Pemerintahan yang menjadi kewenangan Daerah sesuai dengan ketentuan peraturan perundang-undangan.

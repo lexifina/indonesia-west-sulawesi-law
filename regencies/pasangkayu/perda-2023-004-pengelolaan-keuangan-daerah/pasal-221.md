@@ -1,0 +1,4 @@
+# Pasal 221
+(1) Jika dalam waktu paling lama 1 (satu) bulan DPRD tidak mengambil keputusan bersama dengan Bupati terhadap rancangan Perda tentang pertanggungjawaban pelaksanaan APBD yang telah disampaikan oleh Bupati, maka Bupati menyusun dan menetapkan Peraturan Bupati tentang pertanggungjawaban pelaksanaan APBD.
+(2) Rancangan Peraturan Bupati tentang pertanggungjawaban pelaksanaan APBD sebagaimana dimaksud pada ayat (1) ditetapkan setelah memperoleh pengesahan dari Gubernur.
+(3) Untuk memperoleh pengesahan sebagaimana dimaksud pada ayat (2), rancangan Peraturan Bupati tentang pertanggungjawaban pelaksanaan APBD beserta lampiran disampaikan paling lama 7 (tujuh) hari terhitung sejak DPRD tidak mengambil keputusan bersama dengan Bupati terhadap rancangan Perda tentang Pertanggungjawaban Pelaksanaan APBD.
