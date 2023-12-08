@@ -1,0 +1,97 @@
+# Penjelasan
+PENJELASAN ATAS PERATURAN DAERAH KEBUPATEN MAMUJU NOMOR 9 TAHUN 2023 TENTANG PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN
+I. PENJELASAN UMUM
+Pemberdayaan dan Perlindungan terhadap perempuan saat ini perlu mendapatkan perhatian serius dari semua pihak, termasuk perhatian dari Pemerintah Daerah. terkait dengan adanya fenomena dalam kehidupan sosial kemasyarakatan yang sering menjadikan korban atas kekerasan dan ekploitasi mereka sering diposisikan sebagai objek ekonomi dan sering tersisih dan/atau terpinggirkan dalam pergaulan sosial.
+Dalam Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga, (UU KDRT) mengatur bahwa negara jaminan untuk mencegah terjadinya kekerasan dalam rumah tangga, menindak pelaku kekerasan dalam rumah tangga, dan melindungi korban kekerasan dalam rumah tangga. Korban kekerasan dalam rumah tangga, yang kebanyakan adalah Perempuan dan anak, harus mendapat perlindungan agar terhindar dan terbebas dari kekerasan atau ancaman kekerasan, penyiksaan, atau perlakuan yang merendahkan derajat dan martabat kemanusiaan. Oleh karena itu, Pemerintah Daerah membuat pengaturan terkait Pemberdayaan dan Perlindungan Perempuan.
+II. PASAL DEMI PASAL
+Pasal 1
+Dalam Pasal ini memuat pengertian atau memuat tentang definisi-definisi umum yang ada kaitannya dengan Peraturan Daerah Kabupaten Mamuju tentang Penyelenggaraan Perlindungan Perempuan.
+Pasal 2
+Cukup Jelas
+Pasal 3
+Cukup Jelas
+Pasal 4
+Ayat (1) Cukup Jelas
+Pasal 5
+Cukup Jelas
+Pasal 6
+Cukup Jelas
+Pasal 7
+Cukup Jelas
+Pasal 8
+Cukup Jelas
+Pasal 9
+Cukup Jelas
+Pasal 10
+Cukup Jelas
+Pasal 11
+Cukup Jelas
+Pasal 12
+Cukup Jelas
+Pasal 13
+Cukup Jelas
+Pasal 14
+Cukup jelas
+Pasal 15
+Cukup jelas
+Pasal 16
+Cukup jelas.
+Pasal 17
+Cukup jelas.
+Pasal 18
+Cukup jelas.
+Pasal 19
+Cukup jelas.
+Pasal 20
+Cukup jelas.
+Pasal 21
+Cukup jelas.
+Pasal 22
+Cukup jelas.
+Pasal 23
+Cukup jelas.
+Pasal 24
+Cukup jelas.
+Pasal 25
+Cukup jelas.
+Pasal 26
+Cukup jelas.
+Pasal 27
+Cukup jelas.
+Pasal 28
+Cukup Jelas
+Pasal 29
+Cukup jelas.
+Pasal 30
+Cukup jelas.
+Pasal 31
+Cukup jelas.
+Pasal 32
+Cukup jelas.
+Pasal 33
+Cukup jelas.
+Pasal 34
+Cukup jelas.
+Pasal 35
+Cukup Jelas
+Pasal 36
+Cukup Jelas
+Pasal 37
+Cukup Jelas
+Pasal 38
+Cukup Jelas
+Pasal 39
+Cukup Jelas
+Pasal 40
+Cukup Jelas
+Pasal 41
+Cukup Jelas
+Pasal 42
+Cukup Jelas
+Pasal 43
+Cukup Jelas
+Pasal 44
+Cukup Jelas
+Pasal 45
+Cukup Jelas
+TAMBAHAN LEMBARAN DAERAH KABUPATEN MAMUJU NOMOR 7
