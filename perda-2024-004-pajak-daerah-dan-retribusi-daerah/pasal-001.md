@@ -1,0 +1,55 @@
+# Pasal 1
+Dalam Peraturan Daerah ini yang dimaksud dengan:
+1. Pemerintah adalah Pemerintah Pusat.
+2. Pemerintah Daerah adalah Pemerintah Provinsi Sulawesi Barat.
+3. Gubernur adalah Gubernur Provinsi Sulawesi Barat.
+4. Dewan Perwakilan Rakyat Daerah yang selanjutnya disingkat DPRD adalah lembaga perwakilan rakyat daerah yang berkedudukan sebagai unsur penyelenggara pemerintahan daerah.
+5. Pajak Daerah yang selanjutnya disebut Pajak adalah kontribusi wajib kepada Daerah yang terutang oleh orang pribadi atau badan yang bersifat memaksa berdasarkan Undang-Undang, dengan tidak mendapatkan imbalan secara langsung dan digunakan untuk keperluan Daerah bagi sebesar-besarnya kemakmuran rakyat.
+6. Retribusi Daerah yang selanjutnya disebut Retribusi adalah pungutan daerah sebagai pembayaran atas jasa atau pemberian izin tertentu yang khusus disediakan dan/atau diberikan oleh Pemerintah Daerah untuk kepentingan orang pribadi atau badan.
+7. Anggaran Pendapatan dan Belanja Daerah selanjutnya disingkat APBD adalah Anggaran Pendapatan dan Belanja Daerah Provinsi Sulawesi Barat.
+8. Subjek Pajak adalah orang pribadi atau badan yang dapat dikenai Pajak.
+9. Wajib Pajak adalah orang pribadi atau badan, meliputi pembayar Pajak, pemotong Pajak, dan pemungut Pajak, yang mempunyai hak dan kewajiban perpajakan sesuai dengan ketentuan peraturan perundang-undangan.
+10. Subjek Retribusi adalah orang pribadi atau badan yang menggunakan/menikmati pelayanan barang, jasa, dan/atau perizinan.
+Wajib… 11. Wajib Retribusi adalah orang pribadiatau badan yang menurut peraturan perundang-undangan diwajibkan untuk melakukan pembayaran Retribusi, termasuk pemungut Retribusi tertentu.
+12. Masa Pajak adalah jangka waktu 1 (satu) bulan kalender atau jangka waktu lain yang diatur dengan Peraturan Gubernur paling lama 3 (tiga) bulan kalender, yang menjadi dasar bagi Wajib Pajak untuk menghitung, menyetor, dan melaporkan Pajak yang terutang.
+13. Tahun Pajak adalah jangka waktu yang lamanya 1 (satu) tahun kalender, kecuali bila Wajib Pajak menggunakan tahun buku yang tidak sama dengan tahun kalender.
+14. Badan adalah sekumpulan orang dan/atau modal yang merupakan kesatuan, baik yang melakukan usaha maupun yang tidak melakukan usaha yang meliputi perseroan terbatas, perseroan komanditer, perseroan lainnya, badan usaha milik negara, BUMD, atau badan usaha milik desa, dengan nama dan dalam bentuk apa pun, firma, kongsi, koperasi, dana pensiun, persekutuan, perkumpulan, yayasan, organisasi massa, organisasi sosial politik, atau organisasi lainnya, lembaga dan bentuk badan lainnya, termasuk kontrak investasi kolektif dan bentuk usaha tetap.
+15. Pajak Kendaraan Bermotor yang selanjutnya disingkat PKB adalah Pajak atas Kepemilikan dan/atau Penguasaan kendaraan bermotor.
+16. Bea Balik Nama Kendaraan Bermotor yang selanjutnya disingkat BBNKB adalah Pajak atas penyerahan kendaraan bermotor sebagai akibat perjanjian dua pihak atau perbuatan sepihak atau keadaan yang terjadi karena jual beli, tukar-menukar, hibah, warisan, atau pemasukan kedalam badan usaha.
+17. Pemungutan adalah suatu rangkaian kegiatan mulai dari penghimpunan data objek dan subjek Pajak, penentuan besarnya Pajak yang terutang sampai kegiatan Penagihan Pajak kepada Wajib Pajak serta pengawasan penyetorannya.
+18. Surat Pemberitahuan Pajak, adalah surat yang oleh Wajib Pajak digunakan untuk melaporkan penghitungan dan/ atau pembayaran Pajak, objek Pajak dan/ atau bukan objek Pajak, dan/ atau harta dan kewajiban sesuai dengan ketentuan peraturan perundang-undangan perpajakan Daerah.
+19. Surat Ketetapan Pajak yang selanjutnya disingkat SKPD adalah surat ketetapan Pajak yang menentukan besarnya jumlah pokok Pajak yang terutang.
+20. Surat Pemberitahuan Pajak Terutang, yang selanjutnya disingkat SPPT, adalah surat yang digunakan untuk memberitahukan besarnya PBB-P2 yang terutang kepada Wajib Pajak.
+21. Penagihan adalah serangkaian tindakan agar penanggung Pajak melunasi utang Pajak dan biaya Penagihan Pajak dengan menegur atau memperingatkan, melaksanakan Penagihan seketika dan sekaligus, memberitahukan Surat Paksa, mengusulkan pencegahan, melaksanakan penyitaan, melaksanakan penyanderaan, menjual barang yang telah disita.
+22. Kendaraan Bermotor adalah semua kendaraan beroda beserta gandengannya yang digunakan di semua jalan darat atau kendaraan yang dioperasikan di air yang digerakkan oleh peralatan teknik berupa motor atau peralatan lainnya yang berfungsi untuk mengubah suatu sumber daya energi tertentu menjadi tenaga gerak kendaraan bermotor yang bersangkutan.
+23. Kepemilikan adalah hubungan hukum antara orang pribadi atau badan dengan alat berat yang namanya tercantum di dalam bukti Kepemilikan atau dokumen yang sah.
+24. Penguasaan adalah penggunaan dan/atau Penguasaan fisik alat berat oleh orang pribadi atau badan dengan bukti Penguasaan yang sah menurut ketentuan perundang-undangan.
+Pajak… 25. Pajak Bahan Bakar Kendaraan Bermotor yang selanjutnya disingkat PBBKB adalah Pajak atas penggunaan bahan bakar Kendaraan Bermotor dan Alat Berat.
+26. Bahan Bakar Kendaraan Bermotor yang selanjutnya disingkat BBKB semua jenis bahan bakar cair atau gas yang digunakan untuk Kendaraan Bermotor dan Alat Berat.
+27. Pajak Alat Berat yang selanjutnya disingkat PAB adalah Pajak atas Kepemilikan dan/atau Penguasaan Alat Berat.
+28. Alat Berat adalah alat yang diciptakan untuk membantu pekerjaan konstruksi dan pekerjaan teknik sipil lainnya yang sifatnya berat apabila dikerjakan oleh tenaga manusia, beroperasi menggunakan motor dengan atau tanpa roda, tidak melekat secara permanen serta beroperasi pada area tertentu, termasuk tetapi tidak terbatas pada area konstruksi, perkebunan, kehutanan, dan pertambangan.
+29. Jasa Parkir adalah jasa penyediaan atau penyelenggaraan tempat Parkir di luar badan jalan dan/atau pelayanan memarkirkan kendaraan untuk ditempatkan di area Parkir, baik yang disediakan berkaitan dengan pokok usaha maupun yang disediakan sebagai suatu usaha, termasuk penyediaan tempat penitipan Kendaraan Bermotor.
+30. Pajak Air Permukaan yang selanjutnya disingkat PAP adalah Pajak atas pengambilan dan/atau pemanfaatan Air Permukaan.
+31. Air Permukaan adalah semua air yang terdapat pada permukaan tanah.
+32. Pajak Rokok adalah pungutan atas cukai rokok yang dipungut oleh Pemerintah.
+33. Opsen Pajak Mineral Bukan Logam dan Batuan yang selanjutnya disebut Opsen Pajak MBLB adalah Opsen yang dikenakan oleh provinsi atas pokok Pajak MBLB sesuai dengan ketentuan peraturan perundangundangan.
+34. Mineral Bukan Logam dan Batuan yang selanjutnya disingkat MBLB adalah mineral bukan logam yang merupakan mineral yang unsur utamanya terdiri bukan logam, dan batuan merupakan masa padat yang terdiri atas satu jenis mineral atau lebih yang membentuk kerak bumi, baik dalam kedaan terikat maupun lepas.
+35. Jasa Umum adalah jasa yang disediakan atau diberikan oleh Pemerintah Daerah untuk tujuan kepentingan dan kemanfaatan umum serta dapat dinikmati oleh orang pribadi atau badan.
+36. Retribusi Jasa Umum adalah pungutan daerah sebagai pembayaran atas jasa yang disediakan atau diberikan oleh Pemerintah Daerah untuk tujuan kepentingan dan kemanfaatan umum serta dapat dinikmati oleh orang pribadi atau badan.
+37. Pelayanan Kesehatan adalah segala kegiatan pelayanan kesehatan yang diberikan kepada seseorang dalam rangka observasi, diagnosis, pengobatan atau pelayanan kesehatan lainnya 38. Badan Layanan Umum Daerah yang selanjutnya disingkat BLUD adalah sistem yang diterapkan oleh satuan kerja perangkat daerah atau unit satuan kerja perangkat daerah pada satuan kerja perangkat daerah dalam memberikan pelayanan kepada masyarakat yang mempunyai fleksibilitas dalam pola pengelolaan keuangan sebagai pengecualian dari ketentuan pengelolaan keuangan daerah pada umumnya.
+39. Parkir adalah keadaan tidak bergerak suatu kendaraan yang tidak bersifat sementara.
+40. Jasa Usaha adalah jasa yang disediakan atau diberikan oleh Pemerintah Daerah yang dapat bersifat mencari keuntungan karena pada dasarnya dapat pula disediakan oleh sektor swasta.
+Retribusi… 41. Retribusi Jasa Usaha adalah pungutan daerah sebagai pembayaran atas jasa yang disediakan atau diberikan oleh Pemerintah Daerah yang dapat bersifat mencari keuntungan karena pada dasarnya dapat pula disediakan oleh sektor swasta.
+42. Pelataran adalah pelataran di lingkungan pasar yang dapat dimanfaatkan untuk berjualan dalam waktu tertentu setiap hari.
+43. Los adalah bangunan tetap di lingkungan pasar yang sifatnya terbuka dan tanpa dinding keliling yang dipergunakan untuk berjualan.
+44. Kios adalah bangunan tetap dalam bentuk petak berdinding keliling dan berpintu yang dipergunakan untuk berjualan.
+45. Aset Daerah adalah Aset yang dimiliki oleh Pemerintah Daerah yang meliputi tanah, rumah dinas, gedung untuk pesta atau resepsi, fasilitas perlengkapan gedung, kendaraan alat-alat berat, kendaraan angkutan dan pemakaian laboratorium.
+46. Barang Milik Daerah adalah semua barang yang dibeli atau diperoleh atas beban APBD atau berasal dari perolehan lainnya yang sah.
+47. Perizinan Tertentu adalah kegiatan tertentu Pemerintah Daerah dalam rangka pemberian izin kepada orang pribadi atau Badan yang dimaksudkan untuk pembinaan, pengaturan, pengendalian dan pengawasan atas kegiatan, pemanfaatan ruang, serta penggunaan sumber daya alam, barang, prasarana, sarana, atau fasilitas tertentu guna melindungi kepentingan umum dan menjaga kelestarian lingkungan.
+48. Retribusi Perizinan Tertentu adalah pungutan daerah sebagai pembayaran atas jasa yang disediakan atau diberikan oleh Pemerintah Daerah dalam rangka pemberian izin kepada orang pribadi atau Badan yang dimaksudkan untuk pembinaan, pengaturan, pengendalian dan pengawasan atas kegiatan, pemanfaatan ruang, serta penggunaan sumber daya alam, barang, prasarana, sarana, atau fasilitas tertentu guna melindungi kepentingan umum dan menjaga kelestarian lingkungan.
+49. Tenaga Kerja Asing yang selanjutnya disingkat TKA adalah warga negara asing pemegang visa dengan maksud bekerja di wilayah Indonesia.
+50. Pemberi Kerja TKA adalah badan hukum yang didirikan berdasarkan hukum Indonesia atau badan lainnya yang mempekerjakan TKA dengan membayar upah atau imbalan dalam bentuk lain.
+51. Rencana Penggunaan Tenaga Kerja Asing yang selanjutnya disingkat RPTKA adalah rencana penggunaan TKA pada jabatan tertentu dan jangka waktu tertentu.
+52. Pengesahan Rencana Penggunaan Tenaga Kerja Asing yang selanjutnya disebut Pengesahan RPTKA adalah persetujuan penggunaan TKA yang disahkan oleh menteri yang menyelenggarakan urusan pemerintahan dibidang ketenagakerjaan atau pejabat yang ditunjuk.
+53. Dana Kompensasi Penggunaan TKA yang selanjutnya disingkat DKPTKA adalah kompensasi yang harus dibayar oleh Pemberi Kerja TKA atas setiap TKA yang dipekerjakan sebagai penerimaan negara bukan Pajak atau pendapatan daerah. Pengawasan atas kegiatan, pemanfaatan ruang, serta penggunaan sumber daya alam, barang, prasarana, sarana, atau fasilitas tertentu guna melindungi kepentinganumum dan menjaga kelestarian lingkungan.
+Pasal 2…

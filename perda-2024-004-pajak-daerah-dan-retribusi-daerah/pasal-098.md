@@ -1,0 +1,3 @@
+# Pasal 98
+(1) Wajib Pajak yang karena kealpaannya tidak memenuhi kewajiban perpajakan sebagaimana dimaksud dalam Pasal 88 ayat (5), sehingga merugikan Keuangan Daerah, diancam dengan pidana kurungan atau pidana denda sesuai dengan ketentuan Pasal 181 ayat (1) Undang-Undang Nomor 1 Tahun 2022 tentang Hubungan Keuangan antara Pemerintah Pusat dan Pemerintahan Daerah.
+(2) Wajib Pajak yang dengan sengaja tidak memenuhi kewajiban perpajakan sebagaimana dimaksud dalam Pasal 88 ayat (3), sehingga merugikan Keuangan Daerah, diancam dengan pidana penjara atau pidana denda sesuai dengan ketentuan Pasal 181 ayat (2) Undang-Undang Nomor 1 Tahun 2022 tentang Hubungan Keuangan antara Pemerintah Pusat dan Pemerintahan Daerah.

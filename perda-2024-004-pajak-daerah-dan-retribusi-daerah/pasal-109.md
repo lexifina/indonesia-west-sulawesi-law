@@ -1,0 +1,3 @@
+# Pasal 109
+Peraturan Pelaksana dari Peraturan Daerah ini harus ditetapkan paling lama 1 (satu) tahun terhitung sejak Peraturan Daerah ini diundangkan.
+Pasal 110…

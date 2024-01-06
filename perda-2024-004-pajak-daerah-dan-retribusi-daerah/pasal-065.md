@@ -1,0 +1,3 @@
+# Pasal 65
+(1) Subjek Retribusi Jasa Usaha adalah orang pribadi atau Badan yang menggunakan/menikmati pelayanan Jasa Usaha (2) Wajib Retribusi Jasa Usaha adalah orang pribadi atau Badan yang menurut peraturan perundang-undangan diwajibkan untuk melakukan pembayaran Retribusi atas pelayanan Jasa Usaha.
+Pasal 66…

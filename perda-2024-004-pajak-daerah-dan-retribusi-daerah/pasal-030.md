@@ -1,0 +1,3 @@
+# Pasal 30
+Saat terutangnya PAP ditetapkan pada saat terjadinya pengambilan dan/atau pemanfaatan Air Permukaan.
+Pasal 31…

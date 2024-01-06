@@ -1,0 +1,3 @@
+# Pasal 74
+Penyediaan tempat penginapan atau pesanggrahan atau villa sebagaimana dimaksud dalam Pasal 64 ayat (1) huruf d adalah penyediaan tempat penginapan atau pesanggrahan atau villa yang disediakan, dimiliki, dan/atau dikelola oleh Pemerintah Daerah.
+Pasal 75…

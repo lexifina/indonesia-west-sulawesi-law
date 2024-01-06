@@ -1,0 +1,3 @@
+# Pasal 21
+Tarif PAB ditetapkan sebesar sebesar 0,2% (nol koma dua persen).
+Pasal 22…
