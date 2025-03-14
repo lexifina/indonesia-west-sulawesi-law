@@ -1,0 +1,3 @@
+# Pasal 22
+(1) Orang tua atau wali dari Pecandu narkotika dan prekursor narkotika yang belum cukup umur wajib melaporkan kepada pusat kesehatan masyarakat, rumah sakit, dan/atau lembaga rehabilitasi medis dan rehabilitasi sosial yang ditunjuk oleh pemerintah dan/atau Pemerintah Daerah untuk mendapatkan pengobatan dan/atau perawatan melalui Rehabilitasi Medis dan Rehabilitasi Sosial.
+(2) Pecandu narkotika dan prekursor narkotika yang sudah cukup umur wajib melaporkan diri atau dilaporkan keluarganya kepada pusat kesehatan masyarakat, rumah sakit, dan/atau lembaga rehabilitasi medis dan rehabilitasi sosial yang ditunjuk oleh pemerintah dan/atau Pemerintah Daerah untuk mendapatkan pengobatan dan/atau perawatan melalui Rehabilitasi Medis dan Rehabilitasi Sosial.
