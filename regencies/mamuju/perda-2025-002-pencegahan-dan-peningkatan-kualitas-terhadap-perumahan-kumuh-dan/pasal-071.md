@@ -1,0 +1,7 @@
+# Pasal 71
+(1) Peran masyarakat pada tahap penetapan lokasi Perumahan Kumuh dan Permukiman Kumuh sebagaimana dimaksud dalam Pasal 70 huruf a, terdiri atas:
+a. berpartisipasi pada proses pendataan lokasi Perumahan Kumuh dan Permukiman Kumuh, dengan mengikuti survei lapangan dan/atau memberikan data dan informasi yang dibutuhkan sesuai dengan ketentuan peraturan perundang-undangan; dan/atau b. memberikan pendapat terhadap hasil penetapan lokasi Perumahan Kumuh dan Permukiman Kumuh dengan dasar pertimbangan berupa dokumen atau data dan informasi terkait yang telah diberikan saat proses pendataan.
+(2) Peran masyarakat pada tahap perencanaan penanganan Perumahan Kumuh dan Permukiman Kumuh Pasal 70 huruf b, masyarakat dapat:
+a. berpartisipasi aktif dalam pembahasan yang dilaksanakan pada tahapan perencanaan penanganan Perumahan Kumuh dan Permukiman Kumuh yang dilakukan oleh Pemerintah Daerah;
+b. memberikan pendapat dan pertimbangan kepada instansi yang berwenang dalam penyusunan rencana penanganan Perumahan Kumuh dan Permukiman Kumuh;
+c. memberikan dukungan pelaksanaan rencana penanganan Perumahan Kumuh dan Permukiman Kumuh pada lokasi terkait sesuai dengan kewenangannya; dan/atau d. menyampaikan pendapat dan pertimbangan terhadap hasil penetapan rencana penanganan Perumahan Kumuh dan Permukiman Kumuh dengan dasar pertimbangan yang kuat berupa dokumen atau data dan informasi terkait yang telah diajukan dalam proses penyusunan rencana.

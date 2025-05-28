@@ -1,0 +1,2 @@
+# Pasal 83
+(1) Setiap orang yang dengan sengaja membangun Perumahan dan/atau Permukiman di luar kawasan yang diperuntukkan bagi Perumahan dan Permukiman, diancam dengan pidana penjara paling lama 2 (dua) tahun atau denda paling banyak Rp2.000.000.000,00 (dua miliar rupiah) (2) Dalam hal pelanggaran dilakukan oleh Badan Hukum, maka selain pidana penjara dan pidana denda terhadap pengurusnya, pidana dapat dijatuhkan terhadap Badan Hukum berupa pidana denda dengan pemberatan 3 (tiga) kali dari pidana denda terhadap orang.
