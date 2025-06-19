@@ -1,0 +1,6 @@
+# Pasal 23
+(1) Penerapan SMKK pada tahapan pelaksanaan Pekerjaan Konstruksi sebagaimana dimaksud dalam Pasal 20 ayat (4) huruf b, dilakukan dengan melaksanakan RKK, RMPK, program mutu, RKPPL, dan RMLLP.
+(2) Pelaksanaan RKK, RMPK, program mutu, RKPPL, dan RMLLP sebagaimana dimaksud pada ayat (1), harus disesuaikan dengan lingkup pekerjaan dan kondisi di lapangan.
+(3) Penyesuaian RKK, RMPK, program mutu, RKPPL, dan RMLLP sebagaimana dimaksud pada ayat (2), disampaikan oleh pelaksana Pekerjaan Konstruksi, diperiksa, dibahas, atau direviu oleh konsultan pengawas/direksi teknis/Pengguna Jasa, dan disetujui oleh Konsultan Manajemen Konstruksi dan/atau Pengguna Jasa Konstruksi dan Penyedia Jasa Konstruksi pada saat rapat persiapan pelaksanaan Pekerjaan Konstruksi.
+(4) Penyesuaian program mutu sebagaimana dimaksud pada ayat (2), disarnpaikan oleh konsultan pengawas, diperiksa, dibahas, atau direviu oleh pelaksana Pekerjaan Konstruksi/ Pengguna Jasa Konstruksi, dan disetujui oleh konsultan manajemen konstruksi dan/atau Pengguna Jasa Konstruksi dan Penyedia Jasa Konstruksi pada saat rapat persiapan pelaksanaan pekerjaan konstruksi.
+Pasal 24… Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Besar Sertifikasi Elektronik (BSrE), Badan Siber dan Sandi Negara

@@ -1,0 +1,8 @@
+# Pasal 25
+(1) Penyedia Jasa Konstruksi harus menerapkan analisis keselamatan pekerjaan dan/atau analisis keselamatan konstruksi untuk pekerjaan yang mempunyai tingkat risiko besar dan/ atau sedang dan pekerjaan bersifat khusus sesuai dengan metode kerja konstruksi yang terdapat dalam RKK.
+(2) Analisis keselamatan pekerjaan dan/atau analisis keselamatan konstruksi sebagaimana dimaksud pada ayat (1), merupakan bagian yang tidak terpisahkan dari izin kerja yang disusun sesuai dengan format RKK.
+(3) Analisis keselamatan pekerjaan dan/atau analisis keselamatan konstruksi sebagaimana dimaksud pada ayat (1), disusun oleh ahli teknik sesuai bidangnya.
+(4) Dalam hal terjadi perubahan metode kerja, situasi, pengamanan, dan sumber daya manusia, analisis keselamatan pekerjaan dan/ atau analisis keselamatan konstruksi harus ditinjau kembali oleh ahli keamanan dan kesehatan kerja konstruksi, ahli keselamatan konstruksi, dan/ atau tenaga ahli yang membidangi keselamatan konstruksi.
+(5) Peninjauan kembali sebagaimana dimaksud pada ayat (4), dilakukan untuk melihat pemenuhan persyaratan keselamatan
+konstruksi… Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Besar Sertifikasi Elektronik (BSrE), Badan Siber dan Sandi Negara konstruksi, standar keamanan, keselamatan, kesehatan, dan keberlanjutan, dan/atau ketentuan peraturan perundang-undangan.
+(6) Hasil peninjauan kembali sebagaimana dimaksud pada ayat (4), harus mendapatkan persetujuan dari Pengguna Jasa Konstruksi dan ahli teknik sesuai bidangnya yang ditunjuk oleh Penyedia Jasa Konstruksi.

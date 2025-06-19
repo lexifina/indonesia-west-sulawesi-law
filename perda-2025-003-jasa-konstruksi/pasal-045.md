@@ -1,0 +1,6 @@
+# Pasal 45
+(1) Tertib penyelenggaraan pemilihan Penyedia Jasa Konstruksi sebagaimana dimaksud pada Pasal 44 huruf a, yaitu proses pemilihan Penyedia Jasa Konstruksi dilakukan sesuai dengan peraturan peraturan perundang-undangan.
+(2) Dalam hal Pengguna Jasa Konstruksi akan memanfaatkan layanan Jasa Konstruksi dari Penyedia Jasa Konstruksi yang terafiliasi pada pembangunan untuk kepentingan umum, wajib melalui tender, seleksi, atau katalog elektronik.
+(3) Gubernur melakukan pengawasan terhadap kesesuaian antara proses pemilihan Penyedia Jasa Konstruksi dengan ketentuan peraturan perundang-undangan yang pembiayaanya bersumber dari anggaran pendapatan belanja Daerah atau masyarakat/swasta.
+(4) Gubernur sesuai dengan kewenangan mengenakan sanksi peringatan tertulis dan sanksi penghentian sementara kegiatan Jasa Konstruksi kepada Pengguna Jasa Konstruksi atas pelanggaraan menggunakan Penyedia Jasa Konstruksi yang proses pemilihannya tidak sesuai dengan ketentuan peraturan perundang-undangan atau yang terafiliasi untuk pembangunan kepentingan umum tanpa melalui tender, seleksi, atau katalog elektronik sebagaimana dimaksud ayat (2) dan ayat (3).
+(5) Sanksi penghentian sementara kegiatan Jasa Konstruksi sebagaimana dimaksud pada ayat (4) dikenakan sampai terpilihnya Penyedia Jasa Konstruksi melalui tender, seleksi, atau katalog elektronik.
