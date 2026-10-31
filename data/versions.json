@@ -1,0 +1,285 @@
+{
+ "country": "ID-SR",
+ "acts": [
+  {
+   "slug": "perda-2007-008-retribusi-perizinan-angkutan-darat",
+   "short": "Perda West Sulawesi 8/2007",
+   "title": "Peraturan Daerah Provinsi Sulawesi Barat Nomor 8 Tahun 2007 tentang RETRIBUSI PERIZINAN ANGKUTAN DARAT",
+   "url": "https://jdih.sulbarprov.go.id/view/katalog.php?id=166",
+   "versions": [
+    {
+     "from": "2007-06-20",
+     "units": 38,
+     "source_url": "https://jdih.sulbarprov.go.id/peraturan/PERDA%20NO%208%20THN%202007-converted.pdf",
+     "sha256": "e9fcd851ace97408074f809c4b053eadf8a9f0754945b55542dd712685ed99a6"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2008-002-pokok-pokok-pengelolaan-keuangan-daerah",
+   "short": "Perda West Sulawesi 2/2008",
+   "title": "Peraturan Daerah Provinsi Sulawesi Barat Nomor 2 Tahun 2008 tentang POKOK-POKOK PENGELOLAAN KEUANGAN DAERAH",
+   "url": "https://jdih.sulbarprov.go.id/view/katalog.php?id=169",
+   "versions": [
+    {
+     "from": "2008-08-06",
+     "units": 136,
+     "source_url": "https://jdih.sulbarprov.go.id/peraturan/PERDA%20NO%202%20THN%202008.pdf",
+     "sha256": "5eb2c62d79a7ccde68b13909ac975f4ff6dccd6b067512c12e57ef0d8e2ed8f4"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2009-014-pengelolaan-barang-milik-daerah",
+   "short": "Perda West Sulawesi 14/2009",
+   "title": "Peraturan Daerah Provinsi Sulawesi Barat Nomor 14 Tahun 2009 tentang PENGELOLAAN BARANG MILIK DAERAH",
+   "url": "https://jdih.sulbarprov.go.id/view/katalog.php?id=188",
+   "versions": [
+    {
+     "from": "2009-09-30",
+     "units": 110,
+     "source_url": "https://jdih.sulbarprov.go.id/peraturan/PERDA%20NO%2014%20THN%202009.pdf",
+     "sha256": "d8224a475bc908d31d82732daa658d5104523279e11bb56a532b8205d409c06e"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2015-003-penyelenggaraan-pengendalian-uji-mutu-bahan-bangunan-konstruksi",
+   "short": "Perda West Sulawesi 3/2015",
+   "title": "Peraturan Daerah Provinsi Sulawesi Barat Nomor 3 Tahun 2015 tentang PENYELENGGARAAN PENGENDALIAN UJI MUTU BAHAN BANGUNAN, KONSTRUKSI BANGUNAN DAN STANDARDISASI TATA BANGUNAN/LINGKUNGAN",
+   "url": "https://jdih.sulbarprov.go.id/view/katalog.php?id=6716",
+   "versions": [
+    {
+     "from": "2015-07-15",
+     "units": 98,
+     "source_url": "https://jdih.sulbarprov.go.id/peraturan/PERDA%20NO%203%20TAHUN%202015.pdf",
+     "sha256": "6e414b463916c408468c1008d727a4493934727e44431734910f31235cbfe190"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2018-003-pengelolaan-barang-milik-daerah",
+   "short": "Perda West Sulawesi 3/2018",
+   "title": "Peraturan Daerah Provinsi Sulawesi Barat Nomor 3 Tahun 2018 tentang PENGELOLAAN BARANG MILIK DAERAH",
+   "url": "https://jdih.sulbarprov.go.id/view/katalog.php?id=7835",
+   "versions": [
+    {
+     "from": "2018-10-15",
+     "units": 146,
+     "source_url": "https://jdih.sulbarprov.go.id/peraturan/PERDA%20NOMOR%203%20TAHUN%202018.pdf",
+     "sha256": "439415ab1a77a3e0e67ba5c729ba2d1ea0927f29d9ce7522d826da970d193bce"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2019-001-rencana-induk-pembangunan-kepariwisataan-provinsi-sulawesi-barat",
+   "short": "Perda West Sulawesi 1/2019",
+   "title": "Peraturan Daerah Provinsi Sulawesi Barat Nomor 1 Tahun 2019 tentang RENCANA INDUK PEMBANGUNAN KEPARIWISATAAN PROVINSI SULAWESI BARAT TAHUN 2018-2025",
+   "url": "https://jdih.sulbarprov.go.id/view/katalog.php?id=8001",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 57,
+     "source_url": "https://jdih.sulbarprov.go.id/peraturan/PERDA%20NOMOR%201%20TAHUN%202019.pdf",
+     "sha256": "a452edaa68b64a64752c516c9b0e38b328d0b78852b89e358d339045e02055c5"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2019-002-penghormatan-perlindungan-dan-pemenuhan-hak-penyandang-disabilitas",
+   "short": "Perda West Sulawesi 2/2019",
+   "title": "Peraturan Daerah Provinsi Sulawesi Barat Nomor 2 Tahun 2019 tentang PENGHORMATAN, PERLINDUNGAN DAN PEMENUHAN HAK PENYANDANG DISABILITAS",
+   "url": "https://jdih.sulbarprov.go.id/view/katalog.php?id=8002",
+   "versions": [
+    {
+     "from": "2019-03-12",
+     "units": 126,
+     "source_url": "https://jdih.sulbarprov.go.id/peraturan/PERDA%20NOMOR%202%20TAHUN%202019.pdf",
+     "sha256": "5e4284503452076b6c23261cede7c869f269e543e6aac599b6ebe573fd0cc7d6"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2019-006-penyertaan-modal-daerah-pada-perusahaan-umum-daerah-sebuku-energi",
+   "short": "Perda West Sulawesi 6/2019",
+   "title": "Peraturan Daerah Provinsi Sulawesi Barat Nomor 6 Tahun 2019 tentang PENYERTAAN MODAL DAERAH PADA PERUSAHAAN UMUM DAERAH SEBUKU ENERGI MALAQBI",
+   "url": "https://jdih.sulbarprov.go.id/view/katalog.php?id=8038",
+   "versions": [
+    {
+     "from": "2019-08-19",
+     "units": 11,
+     "source_url": "https://jdih.sulbarprov.go.id/peraturan/PERDA%20NOMOR%206%20TAHUN%202019.pdf",
+     "sha256": "d5b24a4d91515068e72a61a94c2aba09c2d8149f5793a2b3541de16ce174b481"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2019-007-penyertaan-modal-daerah-pada-pt-sulawesi-barat-malaqbi-perseroda",
+   "short": "Perda West Sulawesi 7/2019",
+   "title": "Peraturan Daerah Provinsi Sulawesi Barat Nomor 7 Tahun 2019 tentang PENYERTAAN MODAL DAERAH PADA PT. SULAWESI BARAT MALAQBI (PERSERODA)",
+   "url": "https://jdih.sulbarprov.go.id/view/katalog.php?id=8227",
+   "versions": [
+    {
+     "from": "2019-10-04",
+     "units": 20,
+     "source_url": "https://jdih.sulbarprov.go.id/peraturan/PERDA%20NOMOR%207%20TAHUN%202019.pdf",
+     "sha256": "71a989f4e25e1d9a6c9d88405553eb9133eb0a26f2638daea7ca34210bcad827"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2020-010-pengarusutamaan-gender",
+   "short": "Perda West Sulawesi 10/2020",
+   "title": "Peraturan Daerah Provinsi Sulawesi Barat Nomor 10 Tahun 2020 tentang PENGARUSUTAMAAN GENDER",
+   "url": "https://jdih.sulbarprov.go.id/view/katalog.php?id=8686",
+   "versions": [
+    {
+     "from": "2020-12-28",
+     "units": 25,
+     "source_url": "https://jdih.sulbarprov.go.id/peraturan/PERDA%20NOMOR%2010%20TAHUN%202020.pdf",
+     "sha256": "62c45ca58a230f0040132abe70d34c60c828a113a9eca96068da595c77ae92d6"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2021-006-penyelenggaraan-ketenagakerjaan",
+   "short": "Perda West Sulawesi 6/2021",
+   "title": "Peraturan Daerah Provinsi Sulawesi Barat Nomor 6 Tahun 2021 tentang PENYELENGGARAAN KETENAGAKERJAAN",
+   "url": "https://jdih.sulbarprov.go.id/view/katalog.php?id=9074",
+   "versions": [
+    {
+     "from": "2021-12-31",
+     "units": 125,
+     "source_url": "https://jdih.sulbarprov.go.id/peraturan/PERDA%20NOMOR%206%20TAHUN%202021.pdf",
+     "sha256": "0274aeb5aa52fb0716e9544c7c5454688cf7516c78981a238af1b93fcc6318e9"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2022-002-penyelenggaraan-pelatihan-dan-pengembangan-kompetensi-sumber-daya",
+   "short": "Perda West Sulawesi 2/2022",
+   "title": "Peraturan Daerah Provinsi Sulawesi Barat Nomor 2 Tahun 2022 tentang PENYELENGGARAAN PELATIHAN DAN PENGEMBANGAN KOMPETENSI SUMBER DAYA MANUSIA",
+   "url": "https://jdih.sulbarprov.go.id/view/katalog.php?id=9127",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 49,
+     "source_url": "https://jdih.sulbarprov.go.id/peraturan/PERDA%20NOMOR%202%20TAHUN%202022.pdf",
+     "sha256": "88149afc6ddc205caeecfc52c7293ee481ff5c15a18058516bb65206f94491be"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2022-003-pedoman-penamaan-jalan-bangunan-dan-objek-wisata",
+   "short": "Perda West Sulawesi 3/2022",
+   "title": "Peraturan Daerah Provinsi Sulawesi Barat Nomor 3 Tahun 2022 tentang PEDOMAN PENAMAAN JALAN, BANGUNAN DAN OBJEK WISATA",
+   "url": "https://jdih.sulbarprov.go.id/view/katalog.php?id=9155",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 18,
+     "source_url": "https://jdih.sulbarprov.go.id/peraturan/PERDA%20NOMOR%203%20TAHUN%202022.pdf",
+     "sha256": "ed27749bf77be20e4b310fc455fd6f58df42330e8da2f0cbe653ac24f11165a3"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2022-004-rencana-pembangunan-dan-pengembangan-perumahan-dan-kawasan-permukiman",
+   "short": "Perda West Sulawesi 4/2022",
+   "title": "Peraturan Daerah Provinsi Sulawesi Barat Nomor 4 Tahun 2022 tentang RENCANA PEMBANGUNAN DAN PENGEMBANGAN PERUMAHAN DAN KAWASAN PERMUKIMAN TAHUN 2022-2042",
+   "url": "https://jdih.sulbarprov.go.id/view/katalog.php?id=9224",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 22,
+     "source_url": "https://jdih.sulbarprov.go.id/peraturan/PERDA%20NOMOR%204%20TAHUN%202022.pdf",
+     "sha256": "99504eff9872e3b2216d870ab08fb6612f194f7603bbdc562ed2285f18fd905d"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2022-007-penyelenggaraan-penanggulangan-bencana-daerah",
+   "short": "Perda West Sulawesi 7/2022",
+   "title": "Peraturan Daerah Provinsi Sulawesi Barat Nomor 7 Tahun 2022 tentang PENYELENGGARAAN PENANGGULANGAN BENCANA DAERAH",
+   "url": "https://jdih.sulbarprov.go.id/view/katalog.php?id=9225",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 71,
+     "source_url": "https://jdih.sulbarprov.go.id/peraturan/PERDA%20NOMOR%207%20TAHUN%202022.pdf",
+     "sha256": "a5a73252aaf870bb4042f2a2c0d848559b1e2e99d071a3b6d7d654bea12529f7"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2024-004-pajak-daerah-dan-retribusi-daerah",
+   "short": "Perda West Sulawesi 4/2024",
+   "title": "Peraturan Daerah Provinsi Sulawesi Barat Nomor 4 Tahun 2024 tentang PAJAK DAERAH DAN RETRIBUSI DAERAH",
+   "url": "https://jdih.sulbarprov.go.id/view/katalog.php?id=9540",
+   "versions": [
+    {
+     "from": "2024-01-06",
+     "units": 113,
+     "source_url": "https://jdih.sulbarprov.go.id/peraturan/SALINAN%20PERDA%20NOMOR%204%20TAHUN%202024.pdf",
+     "sha256": "ab2e474a920bb3df8ddfcd5a5867cac9472c3abbf04a5db85995857199715ed4"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2024-003-penyelenggaraan-perhubungan",
+   "short": "Perda West Sulawesi 3/2024",
+   "title": "Peraturan Daerah Provinsi Sulawesi Barat Nomor 3 Tahun 2024 tentang PENYELENGGARAAN PERHUBUNGAN",
+   "url": "https://jdih.sulbarprov.go.id/view/katalog.php?id=9575",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 88,
+     "source_url": "https://jdih.sulbarprov.go.id/peraturan/SALINAN%20PERDA%20NOMOR%203%20TAHUN%202024.pdf",
+     "sha256": "feaac9b21982a9c2be2c39a85ed81c2aba3623354fc6d6b4ca4b5a0315798d7e"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2024-010-fasilitasi-penyelenggaraan-pesantren",
+   "short": "Perda West Sulawesi 10/2024",
+   "title": "Peraturan Daerah Provinsi Sulawesi Barat Nomor 10 Tahun 2024 tentang FASILITASI PENYELENGGARAAN PESANTREN",
+   "url": "https://jdih.sulbarprov.go.id/view/katalog.php?id=9604",
+   "versions": [
+    {
+     "from": "2024-10-25",
+     "units": 22,
+     "source_url": "https://jdih.sulbarprov.go.id/peraturan/SALINAN%20PERDA%20NOMOR%2010%20TAHUN%202024.pdf",
+     "sha256": "e9c2d854a2feedeecc7da0f70584d667017b26042c9c9eb7bdab409c14b20847"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2025-003-jasa-konstruksi",
+   "short": "Perda West Sulawesi 3/2025",
+   "title": "Peraturan Daerah Provinsi Sulawesi Barat Nomor 3 Tahun 2025 tentang JASA KONSTRUKSI",
+   "url": "https://jdih.sulbarprov.go.id/view/katalog.php?id=9656",
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 58,
+     "source_url": "https://jdih.sulbarprov.go.id/peraturan/SALINAN%20PERDA%20NOMOR%203%20TAHUN%202025..pdf",
+     "sha256": "40768619124a66d5c8315eed1f72ad6ddb51e21da2f400859b9b9a265d0d2b44"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2026-002-perubahan-atas-peraturan-daerah-provinsi-sulawesi-barat-nomor-1-tahun",
+   "short": "Perda West Sulawesi 2/2026",
+   "title": "Peraturan Daerah Provinsi Sulawesi Barat Nomor 2 Tahun 2026 tentang PERUBAHAN ATAS PERATURAN DAERAH PROVINSI SULAWESI BARAT NOMOR 1 TAHUN 2018 TENTANG PERUSAHAAN UMUM DAERAH SEBUKU ENERGI MALAQBI",
+   "url": "https://jdih.sulbarprov.go.id/view/katalog.php?id=9748",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 5,
+     "source_url": "https://jdih.sulbarprov.go.id/peraturan/SALINAN%20PERDA%20NOMOR%202%20TAHUN%202026.pdf",
+     "sha256": "14af89ec991e7ad97d8d8f2fd0dd4c7231ebba5e1968f322cc250363452924c1"
+    }
+   ]
+  }
+ ]
+}

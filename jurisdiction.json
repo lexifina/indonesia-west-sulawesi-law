@@ -1,0 +1,8 @@
+{
+  "path": "id-sr",
+  "code": "ID-SR",
+  "name": "West Sulawesi (Indonesia)",
+  "level": "country",
+  "repo": "https://github.com/lexifina/indonesia-west-sulawesi-law",
+  "build": "built: Peraturan Daerah (Perda) of Provinsi Sulawesi Barat as enacted, Indonesian text, from JDIH Provinsi Sulawesi Barat (Biro Hukum Sekretariat Daerah Provinsi Sulawesi Barat)"
+}
