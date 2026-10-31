@@ -1,0 +1,30 @@
+{
+ "parts": {
+  "20-perda-01.json": {
+   "acts": [
+    "perda-2007-008-retribusi-perizinan-angkutan-darat",
+    "perda-2008-002-pokok-pokok-pengelolaan-keuangan-daerah",
+    "perda-2009-014-pengelolaan-barang-milik-daerah",
+    "perda-2015-003-penyelenggaraan-pengendalian-uji-mutu-bahan-bangunan-konstruksi",
+    "perda-2018-003-pengelolaan-barang-milik-daerah",
+    "perda-2019-001-rencana-induk-pembangunan-kepariwisataan-provinsi-sulawesi-barat",
+    "perda-2019-002-penghormatan-perlindungan-dan-pemenuhan-hak-penyandang-disabilitas",
+    "perda-2019-006-penyertaan-modal-daerah-pada-perusahaan-umum-daerah-sebuku-energi",
+    "perda-2019-007-penyertaan-modal-daerah-pada-pt-sulawesi-barat-malaqbi-perseroda",
+    "perda-2020-010-pengarusutamaan-gender",
+    "perda-2021-006-penyelenggaraan-ketenagakerjaan",
+    "perda-2022-002-penyelenggaraan-pelatihan-dan-pengembangan-kompetensi-sumber-daya",
+    "perda-2022-003-pedoman-penamaan-jalan-bangunan-dan-objek-wisata",
+    "perda-2022-004-rencana-pembangunan-dan-pengembangan-perumahan-dan-kawasan-permukiman",
+    "perda-2022-007-penyelenggaraan-penanggulangan-bencana-daerah",
+    "perda-2024-003-penyelenggaraan-perhubungan",
+    "perda-2024-004-pajak-daerah-dan-retribusi-daerah",
+    "perda-2024-010-fasilitasi-penyelenggaraan-pesantren",
+    "perda-2025-003-jasa-konstruksi",
+    "perda-2026-002-perubahan-atas-peraturan-daerah-provinsi-sulawesi-barat-nomor-1-tahun"
+   ],
+   "sha256": "67febcbd509ca1e6adb1be11fa82979846390d2c4961e97e6f94fdb334b47ee9"
+  }
+ },
+ "schema": 1
+}
