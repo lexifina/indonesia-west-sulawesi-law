@@ -3,5 +3,23 @@
  "name": "West Sulawesi (Indonesia)",
  "tz": "Asia/Makassar",
  "future_branch": "future",
- "publisher": "JDIH Provinsi Sulawesi Barat (Biro Hukum Sekretariat Daerah Provinsi Sulawesi Barat)"
+ "publisher": "JDIH Provinsi Sulawesi Barat (Biro Hukum Sekretariat Daerah Provinsi Sulawesi Barat)",
+ "units": [
+  {
+   "id": "mamuju",
+   "folder": "regencies/mamuju",
+   "name": "Kabupaten Mamuju",
+   "code": "ID-SR-MAMUJU",
+   "source": "jdih.mamujukab.go.id",
+   "official_code": "76.02"
+  },
+  {
+   "id": "pasangkayu",
+   "folder": "regencies/pasangkayu",
+   "name": "Kabupaten Pasangkayu",
+   "code": "ID-SR-PASANGKAYU",
+   "source": "jdih.pasangkayukab.go.id",
+   "official_code": "76.01"
+  }
+ ]
 }
